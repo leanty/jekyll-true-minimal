@@ -1,7 +1,7 @@
 ---
-title: "attention mechanism transformer"
 layout: post
-date: 2024-12-03
+title: "attention mechanism transformer"
+date: 2024-12-03 23:22:40 +0300
 ---
 
 # 注意力机制：从直觉到 Transformer 架构
