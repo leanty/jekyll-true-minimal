@@ -1,5 +1,5 @@
 ---
-title: "注意力机制：从直觉到 Transformer 架构"
+title: "attention mechanism transformer"
 layout: post
 date: 2024-12-03
 ---
