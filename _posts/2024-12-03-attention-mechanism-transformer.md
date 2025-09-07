@@ -1,7 +1,6 @@
 ---
 title: "注意力机制：从直觉到 Transformer 架构"
 layout: post
-description: "深入理解注意力机制的工作原理，探索从简单注意力到自注意力机制的演进，以及 Transformer 如何革命性地改变了深度学习"
 date: 2024-12-03
 ---
 
